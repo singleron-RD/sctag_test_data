@@ -1,2 +1,2 @@
 sample,fastq_1,fastq_2,match_dir
-Sample_X,https://github.com/singleron-RD/sctag_test_data/raw/main/tag/fastqs/tag_1.fq.gz,https://github.com/singleron-RD/sctag_test_data/raw/main/tag/fastqs/tag_2.fq.gz,/workspace/sctag/match_dir
+Sample_X,https://github.com/singleron-RD/sctag_test_data/raw/main/tag/fastqs/tag_1.fq.gz,https://github.com/singleron-RD/sctag_test_data/raw/main/tag/fastqs/tag_2.fq.gz,/workspace/sctag/sctag_test_data/match_dir
